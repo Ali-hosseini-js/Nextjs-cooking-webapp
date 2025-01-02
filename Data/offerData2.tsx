@@ -1,12 +1,12 @@
 import { StaticImageData } from "next/image";
-import ramen from "../assets/image/ramen.png";
-import firecracker from "../assets/image/firecracker.png";
-import barbeque from "../assets/image/barbeque.png";
+import ramen from "@/assets/image/ramen.png";
+import firecracker from "@/assets/image/firecracker.png";
+import barbeque from "@/assets/image/barbeque.png";
 import chickenSalad from "../assets/image/chickenSalad.png";
-import taco from "../assets/image/taco.png";
-import japaneseRice from "../assets/image/japaneseRice.png";
-import cheeseburger from "../assets/image/cheeseburger.png";
-import fruitSalad from "../assets/image/fruitSalad.png";
+import taco from "@/assets/image/taco.png";
+import japaneseRice from "@/assets/image/japaneseRice.png";
+import cheeseburger from "@/assets/image/cheeseburger.png";
+import fruitSalad from "@/assets/image/fruitSalad.png";
 
 export interface Offer {
   caption: string;

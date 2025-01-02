@@ -1,10 +1,10 @@
 import { StaticImageData } from "next/image";
-import meat from "../assets/image/meat.png";
-import breakfast from "../assets/image/breakfast.png";
-import lunch from "../assets/image/lunch.png";
-import vegan from "../assets/image/vegan.png";
-import dessert from "../assets/image/dessert.png";
-import chocolate from "../assets/image/chocolate.png";
+import meat from "@/assets/image/meat.png";
+import breakfast from "@/assets/image/breakfast.png";
+import lunch from "@/assets/image/lunch.png";
+import vegan from "@/assets/image/vegan.png";
+import dessert from "@/assets/image/dessert.png";
+import chocolate from "@/assets/image/chocolate.png";
 
 export interface category {
   name: string;

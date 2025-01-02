@@ -1,13 +1,13 @@
 import { StaticImageData } from "next/image";
-import burger from "../assets/image/burger.png";
-import fish from "../assets/image/fish.png";
-import pancake from "../assets/image/pancake.png";
-import salad from "../assets/image/salad.png";
-import meetball from "../assets/image/meetball.png";
-import pancake2 from "../assets/image/pancake2.png";
-import rice from "../assets/image/rice.png";
-import pasta from "../assets/image/pasta.png";
-import ads from "../assets/image/Ads.png";
+import burger from "@/assets/image/burger.png";
+import fish from "@/assets/image/fish.png";
+import pancake from "@/assets/image/pancake.png";
+import salad from "@/assets/image/salad.png";
+import meetball from "@/assets/image/meetball.png";
+import pancake2 from "@/assets/image/pancake2.png";
+import rice from "@/assets/image/rice.png";
+import pasta from "@/assets/image/pasta.png";
+import ads from "@/assets/image/Ads.png";
 
 export interface Offer {
   caption: string;
