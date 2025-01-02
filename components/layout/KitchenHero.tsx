@@ -1,5 +1,5 @@
 import Image from "next/image";
-import kitchenHero from "@/assets/svg/kitchenHero.svg";
+import kitchenHero from "@/assets/image/kitchenHero.png";
 import Button from "@/components/module/Button";
 
 function KitchenHero() {
@@ -19,8 +19,8 @@ function KitchenHero() {
         className="object-cover rounded-r-xl w-1/2"
         alt="be a kitchen"
         src={kitchenHero}
-        width={150}
-        height={150}
+        width={500}
+        height={500}
       />
     </div>
   );
