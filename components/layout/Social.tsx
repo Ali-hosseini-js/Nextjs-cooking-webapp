@@ -21,8 +21,8 @@ function Social() {
             className="w-[200px] h-[400px]"
             alt="foodieland instagram"
             src={post.image}
-            width={300}
-            height={450}
+            width={600}
+            height={1000}
           />
         ))}
       </div>
