@@ -1,8 +1,8 @@
 import { StaticImageData } from "next/image";
-import post1 from "@/assets/image/post-1.png";
-import post2 from "@/assets/image/post-2.png";
-import post3 from "@/assets/image/post-3.png";
-import post4 from "@/assets/image/post-4.png";
+import post1 from "@/assets/image/post-11.png";
+import post2 from "@/assets/image/post-12.png";
+import post3 from "@/assets/image/post-13.png";
+import post4 from "@/assets/image/post-14.png";
 
 export interface Post {
   name: string;
