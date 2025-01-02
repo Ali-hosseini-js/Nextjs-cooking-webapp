@@ -1,5 +1,4 @@
 import Button from "@/components/module/Button";
-import inboxBackground from "@/assets/image/inboxBackgroundMain.png";
 
 function Inbox() {
   return (
